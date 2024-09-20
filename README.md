@@ -5,6 +5,7 @@
 - ❤️ Passionate about everything that can be automated and music
 - 🛠️ Currently working on [Renpath](https://github.com/leo-chartier/renpath)
 - 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-chartier/) or by [email](mailto:leo.chartier@dartybox.com)
+- 📝 My resume: [French](docs/Resume_FR.pdf) | [English](docs/Resume_EN.pdf)
 
 <br>
 
